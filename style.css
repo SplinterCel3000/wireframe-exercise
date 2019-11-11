@@ -1,0 +1,29 @@
+#image1{
+    position: absolute;
+    left: 10PX;
+    top: 10px;
+}
+
+#image2{
+    position: absolute;
+    left: 10PX;
+    top: 100px;
+}
+
+#image3{
+    position: absolute;
+    left: 10PX;
+    top: 575px;
+}
+
+#image4{
+    position: absolute;
+    left: 340PX;
+    top: 575px;
+}
+
+#image5{
+    position: absolute;
+    left: 670;
+    top: 575px;
+}
